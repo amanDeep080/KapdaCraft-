@@ -11,34 +11,7 @@
   <img src="https://img.shields.io/badge/Frontend-HTML%20%2B%20Bootstrap-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Working-success?style=for-the-badge"/>
 </p>
-## 🗄️ ER Diagram
 
-```mermaid
-erDiagram
-    FABRIC_REQUEST {
-        Long id
-        String fabricDescription
-        String fabricImageUrl
-        String suggestion
-    }
-
-    TAILOR_PROFILE {
-        Long id
-        String name
-        String phone
-        String city
-        String skills
-        String startingPrice
-    }
-
-    MESSAGE {
-        Long id
-        Long senderId
-        Long receiverId
-        String message
-        LocalDateTime timestamp
-    }
-```
 ---
 
 ## 🌟 About Project
@@ -113,7 +86,34 @@ KapdaCraft
 | Build Tool  | Maven |
 
 ---
+## 🗄️ ER Diagram
 
+```mermaid
+erDiagram
+    FABRIC_REQUEST {
+        Long id
+        String fabricDescription
+        String fabricImageUrl
+        String suggestion
+    }
+
+    TAILOR_PROFILE {
+        Long id
+        String name
+        String phone
+        String city
+        String skills
+        String startingPrice
+    }
+
+    MESSAGE {
+        Long id
+        Long senderId
+        Long receiverId
+        String message
+        LocalDateTime timestamp
+    }
+```
 ## ⚙️ How To Run
 
 ### 1️⃣ Create Database
