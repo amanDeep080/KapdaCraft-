@@ -1,26 +1,9 @@
+<h1 align="center">👗 KapdaCraft</h1>
 
 <p align="center">
-  <!-- Animated Banner (capsule-render) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=KapdaCraft&fontAlignY=35&desc=Fabric%20Style%20Advisor%20%2B%20Tailor%20Chat%20Platform&descAlignY=55&animation=twinkling&fontSize=58" />
-</p>
-
-<p align="center">
-  <b>👗 Fabric Style Advisor + Tailor Chat Platform</b><br/>
+  <b>Fabric Style Advisor + Tailor Chat Platform</b><br>
   A Spring Boot + PostgreSQL based mini startup prototype 🚀
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Spring%20Boot%203-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frontend-HTML%20%2B%20Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Working-success?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/API-REST-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ORM-Hibernate%20%2F%20JPA-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Build-Maven-black?style=flat-square"/>
-</p>>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-SpringBoot-green?style=for-the-badge"/>
