@@ -112,7 +112,7 @@ erDiagram
         String message
         LocalDateTime timestamp
     }
-```
+
     🏗️ Project Architecture
 KapdaCraft
  ├── controller
