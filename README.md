@@ -212,7 +212,7 @@ Example Body:
 ```json
 {
   "name": "Aunty Simi",
-  "phone": "9876543210",
+  "phone": "0000000000",
   "city": "Phagwara",
   "skills": "Lehenga,Suit,Sharara",
   "startingPrice": "700"
@@ -249,4 +249,4 @@ Spring Boot Enthusiast 🚀
 <p align="center">
   Made with ❤️ using Spring Boot
 </p>
-arrange this and add animated banner for the heading
+
