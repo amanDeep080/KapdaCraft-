@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>👗 Fabric Style Advisor + Tailor Chat Platform</b><br/>
+  <b>👗 Fabric Style Advisor + Tailor Chating Platform</b><br/>
   A Spring Boot + PostgreSQL based mini startup prototype 🚀
 </p>
 
