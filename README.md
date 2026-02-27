@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- Animated Banner (capsule-render) -->
+ 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=KapdaCraft&fontAlignY=35&desc=Fabric%20Style%20Advisor%20%2B%20Tailor%20Chat%20Platform&descAlignY=55&animation=twinkling&fontSize=58" />
 </p>
 
